@@ -1,9 +1,7 @@
 {
   "functions": {
     "api": {
-      "/index.php": {
-        "handler": "index.php"
-      }
+      "handler": "api/index.php"
     }
   }
 }
